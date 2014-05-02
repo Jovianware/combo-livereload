@@ -1,0 +1,25 @@
+{
+  "name": "combo-livereload",
+  "version": "0.0.1",
+  "description": "Automatic hot-swapping of assets during combo game development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jovianware/combo-livereload.git"
+  },
+  "keywords": [
+    "combo",
+    "plugin",
+    "livereload",
+    "asset"
+  ],
+  "author": "Louis Acresti <louis.acresti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jovianware/combo-livereload/issues"
+  },
+  "homepage": "https://github.com/Jovianware/combo-livereload"
+}
