@@ -1,6 +1,6 @@
 {
   "name": "combo-livereload",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Automatic hot-swapping of assets during combo game development.",
   "directories": {
     "lib": "./lib"
